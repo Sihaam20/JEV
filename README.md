@@ -106,8 +106,8 @@ Possible uses:
 ```text
 jev-movie-review-analyzer/
 ├── README.md
-├── jev_movie_review.ipynb
-└── requirements.txt
+├── jev.ipynb
+└── Requirements.txt
 ```
 
 
